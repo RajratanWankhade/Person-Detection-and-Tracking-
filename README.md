@@ -8,7 +8,7 @@ https://colab.research.google.com/drive/1Vqf_l7SEN_BSJN1Z_PbTlRFr1buRT3q8?usp=sh
 
 
 
-##Video Link of output: The number of people(including the bag count)entering or leaving the line.
+## Video Link of output: The number of people(including the bag count)entering or leaving the line.
 
 https://drive.google.com/file/d/1I8ObLRUiCveSFIGHMDPcWvohwa4_R99k/view?usp=share_link
 
