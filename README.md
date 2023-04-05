@@ -19,5 +19,6 @@ https://drive.google.com/file/d/1I8ObLRUiCveSFIGHMDPcWvohwa4_R99k/view?usp=share
 
 ## References
 - https://github.com/ultralytics/ultralytics
+- MuhammadMoinFaisal: https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking
 
 0
